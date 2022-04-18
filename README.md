@@ -1,0 +1,2 @@
+# np
+🗒  Simple Notepad 
